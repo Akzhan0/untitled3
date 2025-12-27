@@ -15,6 +15,8 @@ This project is a Java-based application that models various vehicles and their 
  D. Screenshots
  ![Program Output](./docs/screenshot/output.png)
 
+![Program Output](./docs/uml-digramma/output1.png)
+
  E. Reflection
 Inheritance helped avoid code duplication by defining common fields once in the Vehicle class.
 Abstraction ensured a consistent structure, forcing all vehicle types to implement start and stop methods.
